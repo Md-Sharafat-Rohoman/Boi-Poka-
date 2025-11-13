@@ -1,0 +1,14 @@
+a.active{
+    color: green;
+    border: 2px solid green;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    /* font-weight: bold; */
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}

@@ -1,0 +1,15 @@
+.bannar-container{
+    background-color: #F3F3F3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+    border-radius: 20px;
+    /* padding: 20px; */
+}
+.bannar-container button{
+    background-color: #23BE1A;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
